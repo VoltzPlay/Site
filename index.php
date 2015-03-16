@@ -5,7 +5,7 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="description" content="">
 		<meta name="keywords" content="">
-		<link href="favicon.ico" rel="icon" type="image/x-icon" />
+		<link rel="shortcut icon" href="images/favicon.ico">
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
@@ -98,23 +98,48 @@
 								<li>Ikke gå i eller endre på andres hus eller eiendom, med mindre dette er avtalt.</li>
 								<li>Snakk ordentlig, hold språket rent.</li>
 								<li>Du er ansvarlig for alt som er forårsaket av din Minecraft bruker, selv om en annen person låner den.</li>
-								<li>Følg norsk lov.</li>
+								<li>Følg alltid norsk lov.</li>
 							</ul>
 						</section>
 						<section>
 							<header>
-								<h3>Spesifikke</h3>
+								<h3>Utvidede</h3>
 							</header>
 							<ul class="default">
-								<li>Tyveri er av andre spilleres eiendom eller gjenstander er ikke lov.</li>
-								<li>Ikke grief andre spilleres eiendom eller byggverk.</li>
-								<li>Ikke drep/sloss mot andre, med mindre dette er avtalt.</li>
-								<li>Ikke forårsak lagg på serveren, prøv å holde antallet maskiner og ressurskrevende blokker nede.</li>
-								<li>Ikke gå i eller endre på andres hus eller eiendom, med mindre dette er avtalt.</li>
-								<li>Snakk ordentlig, hold språket rent.</li>
-								<li>Du er ansvarlig for alt som er forårsaket av din Minecraft bruker, selv om en annen person låner den.</li>
-								<li>Følg norsk lov.</li>
+								<li>Ikke rør/grief vulkaner på noen måte, disse er fredet pga de kommer ikke tilbake om de blir ødelagt.</li>
 							</ul>
+						</section>
+					</div>
+				</div>
+			</section>
+			<section id="rules" class="main">
+				<header>
+					<div class="container">
+						<h2>Modder</h2>
+						<p>En liste over moddene vi bruker på serveren, kun for informasjon/referanse da moddene blir installert automatisk av vår <a href="#launcher">launcher</a>.</p>
+					</div>
+				</header>
+				<div class="content style1 dark">
+					<div class="container">
+						<section>
+							<div class="table-wrapper">
+								<table class="default">
+									<thead>
+										<tr>
+											<th>Navn</th>
+											<th>Versjon</th>
+											<th>Dokumentasjon</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Applied Energistics 2</td>
+											<td>rv2-beta-13</td>
+											<td><a href="http://ae-mod.info/">http://ae-mod.info/</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
 						</section>
 					</div>
 				</div>
@@ -297,7 +322,7 @@
 				<ul class="icons">
 					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="https://github.com/VoltzPlay/" class="icon fa-github"><span class="label">GitHub</span></a></li>
 				</ul>
 				<div class="copyright">
 					<ul class="menu">
