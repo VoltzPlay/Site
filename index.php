@@ -35,7 +35,7 @@
 		<section id="information" class="main">
 			<header>
 				<div class="container">
-					<h2>Hvordan blir jeg med på å spille?</h2>
+					<h2>Hvordan blir jeg med å spille?</h2>
 					<p>For å kunne spille på vår server må du laste ned vår <a href="#launcher">launcher</a>, og spørre "halvorshalvors" om å komme på vår whitelist.</p>
 				</div>
 			</header>
