@@ -60,7 +60,7 @@
 										<h3>Regler</h3>
 									</header>
 									<p>Du må lese nøye igjennom og godta reglene før du begynner å spille.</p>
-									<a href="#rules" class="button">Vis regler</a>
+									<a href="#rules" class="button scrolly">Vis regler</a>
 								</section>
 							</div>
 							<div class="4u">
