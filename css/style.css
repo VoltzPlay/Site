@@ -900,18 +900,26 @@
 
 			.main > .content.dark
 			{
-				background: #433;
+				background: #333;
 			}
 			
 			.main > .content.style1
 			{
-				background:	url('../images/header1.png');
+				background:	url('../images/picture1.png');
 				background-size: auto, cover;
 				background-position: top left, center center;
 				background-repeat: repeat, no-repeat;
 			}
-
+			
 			.main > .content.style2
+			{
+				background:	url('../images/picture2.png');
+				background-size: auto, cover;
+				background-position: top left, center center;
+				background-repeat: repeat, no-repeat;
+			}
+			
+			.main > .content.style3
 			{
 				background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
@@ -919,7 +927,7 @@
 							linear-gradient(45deg, #384955, #655361, #85505f);
 			}
 
-			.main > .content.style3
+			.main > .content.style4
 			{
 				background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
@@ -927,7 +935,7 @@
 							linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
 			}
 
-			.main > .content.style4
+			.main > .content.style5
 			{
 				padding-top: 0;
 				background: #fff;
