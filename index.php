@@ -135,24 +135,32 @@
 							</thead>
 							<tbody>
 								<tr>
+									<td><a href="http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff">AE2 Stuff</a></td>
+									<td>0.3.1.33</td>
+								</tr>
+								<tr>
 									<td><a href="http://ae-mod.info/">AppliedEnergistics 2</a></td>
-									<td>rv2-beta-13</td>
+									<td>rv2-stable-9</td>
+								</tr>
+								<tr>
+									<td><a href="http://minecraft.curseforge.com/mc-mods/70496-bdlib">BdLib</a></td>
+									<td>1.8.1.87</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/69162-cofhcore">CoFHCore</a></td>
-									<td>3.0.0RC7-211</td>
+									<td>3.0.2-262</td>
 								</tr>
 								<tr>
 									<td><a href="http://calclavia.com/electrodynamics/">Electrodynamics</a></td>
 									<td>N/A</td>
 								</tr>
 								<tr>
-									<td><a href="http://micdoodle8.com/mods/galacticraft">Galacticraft-Planets</a></td>
-									<td>3.0.8.265</td>
+									<td><a href="http://micdoodle8.com/mods/galacticraft">Galacticraft Core</a></td>
+									<td>3.0.11.333</td>
 								</tr>
 								<tr>
-									<td><a href="http://micdoodle8.com/mods/galacticraft">Galacticraft-Core</a></td>
-									<td>3.0.8.265</td>
+									<td><a href="http://micdoodle8.com/mods/galacticraft">Galacticraft Planets</a></td>
+									<td>3.0.11.333</td>
 								</tr>
 								<tr>
 									<td><a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0">IronChests</a></td>
@@ -164,67 +172,68 @@
 								</tr>
 								<tr>
 									<td><a href="http://aidancbrady.com/mekanism/">Mekanism</a></td>
-									<td>7.1.2.185</td>
+									<td>8.1.5.246</td>
 								</tr>
 								<tr>    
 									<td><a href="http://aidancbrady.com/mekanism/">Mekanism Generators</a></td>
-									<td>7.1.2.185</td>
+									<td>8.1.5.246</td>
 								</tr>
 								<tr>    
 									<td><a href="http://aidancbrady.com/mekanism/">Mekanism Tools</a></td>
-									<td>7.1.2.185</td>
-								</tr>
-								<tr>
-									<td><a href="http://calclavia.com/mffs/">Modular Force Field System</a></td>
-									<td>N/A</td>
+									<td>8.1.5.246</td>
 								</tr>
 								<tr>
 									<td><a href="http://micdoodle8.com/mods/galacticraft">MicdoodleCore</a></td>
-									<td>3.0.8.265</td>
+									<td>3.0.11.333</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/73373-minechem">MineChem</a></td>
-									<td>5.0.5.385</td>
+									<td>5.0.5.394</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/66675-netherores">NetherOres</a></td>
-									<td>2.3.0RC4-4</td>
+									<td>2.3.0-12</td>
 								</tr>
 								<tr>
+									<td><a href="http://novaapi.net/">NOVA-Wrapper-MC</a></td>
+									<td>N/A</td>
+								</tr>
+								
+								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/223008-opencomputers">OpenComputers</a></td>
-									<td>1.5.3.10</td>
+									<td>1.5.12.26</td>
 								</tr>
 								<tr>
 									<td><a href="http://projectredwiki.com/wiki/Main_Page">ProjectRed-Base</a></td>
-									<td>4.5.14.66</td>
+									<td>4.7.0pre1.84</td>
 								</tr>
 								<tr>
 									<td><a href="http://projectredwiki.com/wiki/Main_Page">ProjectRed-Compat</a></td>
-									<td>4.5.14.66</td>
+									<td>4.7.0pre1.84</td>
 								</tr>
 								<tr>
 									<td><a href="http://projectredwiki.com/wiki/Main_Page">ProjectRed-Integration</a></td>
-									<td>4.5.14.66</td>
+									<td>4.7.0pre1.84</td>
 								</tr>
 								<tr>
 									<td><a href="http://projectredwiki.com/wiki/Main_Page">ProjectRed-Lighting</a></td>
-									<td>4.5.14.66</td>
+									<td>4.7.0pre1.84</td>
 								</tr>
 								<tr>
 									<td><a href="http://projectredwiki.com/wiki/Main_Page">ProjectRed-Mechanical_beta</a></td>
-									<td>4.5.14.66</td>
+									<td>4.7.0pre1.84</td>
 								</tr>
 								<tr>
 									<td><a href="http://projectredwiki.com/wiki/Main_Page">ProjectRed-World</a></td>
-									<td>4.5.14.66</td>
+									<td>4.7.0pre1.84</td>
 								</tr>
 								<tr>
 									<td><a href="http://www.railcraft.info/">Railcraft</a></td>
-									<td>9.5.0.0</td>
+									<td>9.6.1.0</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal">Redstone Arsenal</a></td>
-									<td>1.1.0RC7-65</td>
+									<td>1.1.0-80</td>
 								</tr>
 								<tr>
 									<td><a href="http://resonantengine.com/">Resonant Engine</a></td>
@@ -232,19 +241,19 @@
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct">Tinkers Construct</a></td>
-									<td>1.8.3b</td>
+									<td>1.8.5</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/227443-thermal-dynamics">Thermal Dynamics</a></td>
-									<td>1.0.0RC7-98</td>
+									<td>1.0.0-122</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/69163-thermalexpansion">Thermal Expansion</a></td>
-									<td>4.0.0RC7-141</td>
+									<td>4.0.1-182</td>
 								</tr>
 								<tr>
 									<td><a href="http://minecraft.curseforge.com/mc-mods/222880-thermal-foundation">Thermal Foundation</a></td>
-									<td>1.0.0RC7-62</td>
+									<td>1.0.0-81</td>
 								</tr>
 							</tbody>
 						</table>
